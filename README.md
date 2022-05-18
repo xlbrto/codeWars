@@ -4,7 +4,9 @@
 
 ##
 
-A repository with my Codewars logic and solutions. Pushing one Kata a day to keep myself sharp. 
+A repository with my Codewars logic and solutions. 
+
+Pushing one Kata a day to keep myself sharp. 
 
 The technology I am currently using is:
 
