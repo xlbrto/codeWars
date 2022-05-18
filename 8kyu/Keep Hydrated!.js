@@ -9,4 +9,4 @@ function litres(time) {
     return Math.floor(time * water)
   }
   
-  litres(11.8)
+  litres(11.8) 
