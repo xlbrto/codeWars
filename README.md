@@ -15,3 +15,5 @@ The languages and tools used for this repo are:
 </a>
 <img style="margin: 10px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" height="25">
 </div>
+
+<br>
