@@ -2,8 +2,8 @@
 
 //solution
 
-function booleanToString(b){
-    if(b){
+function booleanToString(a){
+    if(a){
       return "true"
     }else{
       return "false"
