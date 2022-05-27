@@ -1,4 +1,4 @@
-//I used an "if else" loop to get to the expected output
+//Instructions required an "if...else" loop to get to the expected output
 
 //solution
 
