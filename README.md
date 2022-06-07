@@ -7,6 +7,9 @@
 A repository with my Codewars logic and solutions. Pushing one Kata a day to keep myself sharp. 
 <br>
 
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/xlbrto/codeWars?style=flat-square"/>
+<!-- <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/xlbrto/codeWars?style=for-the-badge" height="25"/> -->
+
 The languages and tools used for this repo are:
 <div>
 <img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="25">
