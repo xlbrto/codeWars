@@ -7,7 +7,7 @@
 A repository with my Codewars logic and solutions. Pushing one Kata a day to keep myself sharp. 
 <br>
 
-<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/xlbrto/codeWars?style=flat-square"/>
+<!-- <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/xlbrto/codeWars?style=flat-square"/> -->
 <!-- <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/xlbrto/codeWars?style=for-the-badge" height="25"/> -->
 
 The languages and tools used for this repo are:
